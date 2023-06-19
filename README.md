@@ -35,3 +35,7 @@ julia> @btime rel_prime_prob_totient(10_000)
   275.958 μs (0 allocations: 0 bytes)
 0.60794971
 ```
+
+## Answer
+
+The answer to the question is `1/ζ(2) = 6/π^2` which equals `0.6079271018540267`.
